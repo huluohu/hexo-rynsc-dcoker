@@ -6,3 +6,4 @@ RUN npm install -g hexo
 RUN npm install --unsafe-perm=true --allow-root
 RUN yum install rsync
 RUN echo "End installed dependences of hexo build & deploy... "
+
