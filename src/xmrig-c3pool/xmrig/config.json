@@ -1,7 +1,7 @@
 {
     "api": {
         "id": null,
-        "worker-id": "huluohu"
+        "worker-id": null
     },
     "http": {
         "enabled": false,
@@ -64,9 +64,9 @@
         {
             "algo": null,
             "coin": null,
-            "url": "mine.c3pool.com:13333",
+            "url": "mine.c3pool.com:15555",
             "user": "46qWfHB4p1X1EcjwSxTJ1jhUQdBsmtwyM8JkqbNVXTQqDLcvcYzjjptfHzKmW7PKv1eohbWjEqyqaJwEzhCBY7nA9j5sa5e",
-            "pass": "x",
+            "pass": "DOCKER",
             "rig-id": null,
             "nicehash": false,
             "keepalive": false,
