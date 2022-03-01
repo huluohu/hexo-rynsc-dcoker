@@ -1,4 +1,4 @@
-FROM centos/nodejs-10-centos7:latest
+FROM centos/nodejs-12-centos7:latest
 MAINTAINER huluohu huluohu@huluohu.com
 
 RUN echo "Begin install dependences of hexo build & deploy... "

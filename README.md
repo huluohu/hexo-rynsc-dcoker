@@ -3,6 +3,6 @@
 ### 构建
 ```shell
 docker login 
-docker build -t fooololo/hexo-rsync
+docker build -t fooololo/hexo-rsync  ./hexo-rsync
 docker push fooololo/hexo-rsync
 ```
